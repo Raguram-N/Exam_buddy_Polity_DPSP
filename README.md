@@ -702,6 +702,717 @@
 
 ---
 
+```json
+[
+  {
+    "id": 1,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "Part IV",
+    "fact": "DPSP are in Part IV of Constitution.",
+    "keywords": ["DPSP", "Part IV", "Constitution"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 2,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "36-51",
+    "fact": "DPSP are in Articles 36 to 51.",
+    "keywords": ["DPSP", "Articles 36-51"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 3,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are non-justiciable rights.",
+    "keywords": ["DPSP", "Non-justiciable"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 4,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP cannot be enforced by courts.",
+    "keywords": ["DPSP", "Courts"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 5,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP aim to create welfare state.",
+    "keywords": ["DPSP", "Welfare State"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 6,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP guide government policy.",
+    "keywords": ["DPSP", "Policy"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 7,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are fundamental in governance.",
+    "keywords": ["DPSP", "Governance"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 8,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are borrowed from Irish Constitution.",
+    "keywords": ["DPSP", "Irish Constitution"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 9,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are not legally enforceable.",
+    "keywords": ["DPSP", "Enforceable"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 10,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP act as moral obligation for State.",
+    "keywords": ["DPSP", "Moral Obligation"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 11,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "36",
+    "fact": "Article 36 defines State for DPSP.",
+    "keywords": ["Article 36", "State", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 12,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "36",
+    "fact": "Definition of State is same as Part III.",
+    "keywords": ["Article 36", "State", "Part III"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 13,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "37",
+    "fact": "Article 37 declares DPSP non-justiciable.",
+    "keywords": ["Article 37", "Non-justiciable"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 14,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "37",
+    "fact": "DPSP still fundamental in governance.",
+    "keywords": ["Article 37", "Governance"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 15,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "Courts use DPSP for interpretation.",
+    "keywords": ["Courts", "Interpretation", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 16,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP promote social and economic justice.",
+    "keywords": ["Social Justice", "Economic Justice"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 17,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP ensure equitable distribution of wealth.",
+    "keywords": ["Wealth", "Distribution"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 18,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP reduce inequality in society.",
+    "keywords": ["Inequality", "Society"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 19,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP guide legislative policies.",
+    "keywords": ["Legislature", "Policy"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 20,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP guide executive actions.",
+    "keywords": ["Executive", "Governance"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 21,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are positive obligations of State.",
+    "keywords": ["Positive Obligations", "State"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 22,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP complement Fundamental Rights.",
+    "keywords": ["Fundamental Rights", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 23,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP and FR together form Constitution balance.",
+    "keywords": ["FR", "Constitutional Balance"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 24,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP focus on socio-economic justice.",
+    "keywords": ["Socio-economic Justice"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 25,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP aim at welfare state model.",
+    "keywords": ["Welfare State"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 26,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP influence law-making.",
+    "keywords": ["Law Making"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 27,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are not fundamental rights.",
+    "keywords": ["Fundamental Rights"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 28,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP cannot be suspended.",
+    "keywords": ["Suspension"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 29,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP are policy directives.",
+    "keywords": ["Policy Directives"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 30,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Basic Framework",
+    "article": "",
+    "fact": "DPSP help in governance framework.",
+    "keywords": ["Governance Framework"],
+    "source": "Indian Constitution"
+  }
+]
+```
+```json
+[
+  {
+    "id": 31,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP are classified into 3 categories.",
+    "keywords": ["DPSP", "Classification"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 32,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "Gandhi principles form DPSP category.",
+    "keywords": ["Gandhian Principles", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 33,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "Socialistic principles form DPSP category.",
+    "keywords": ["Socialistic Principles", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 34,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "Liberal-intellectual principles form DPSP category.",
+    "keywords": ["Liberal Principles", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 35,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP classification is not in Constitution text.",
+    "keywords": ["Classification", "Constitution"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 36,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "Classification is based on content nature.",
+    "keywords": ["Classification", "Content"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 37,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP aim at balanced development.",
+    "keywords": ["Balanced Development", "DPSP"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 38,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP promote justice—social, economic, political.",
+    "keywords": ["Justice", "Social", "Economic", "Political"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 39,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP ensure dignity of individuals.",
+    "keywords": ["Dignity", "Individuals"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 40,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Classification Introduction",
+    "article": "",
+    "fact": "DPSP aim at equality in society.",
+    "keywords": ["Equality", "Society"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 41,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP focus on equality.",
+    "keywords": ["Socialistic", "Equality"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 42,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP reduce economic disparity.",
+    "keywords": ["Socialistic", "Economic Disparity"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 43,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP ensure welfare measures.",
+    "keywords": ["Socialistic", "Welfare"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 44,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP promote public welfare.",
+    "keywords": ["Public Welfare", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 45,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP support state planning.",
+    "keywords": ["State Planning", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 46,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP promote economic justice.",
+    "keywords": ["Economic Justice", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 47,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP support equal pay principle.",
+    "keywords": ["Equal Pay", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 48,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP reduce concentration of wealth.",
+    "keywords": ["Wealth", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 49,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP support social security.",
+    "keywords": ["Social Security", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 50,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Socialistic Principles",
+    "article": "",
+    "fact": "Socialistic DPSP promote workers welfare.",
+    "keywords": ["Workers Welfare", "Socialistic"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 51,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP follow Mahatma Gandhi ideals.",
+    "keywords": ["Gandhian", "Mahatma Gandhi"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 52,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote village panchayat system.",
+    "keywords": ["Village Panchayat", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 53,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote rural development.",
+    "keywords": ["Rural Development", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 54,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP support cottage industries.",
+    "keywords": ["Cottage Industries", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 55,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote decentralization.",
+    "keywords": ["Decentralization", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 56,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote prohibition ideals.",
+    "keywords": ["Prohibition", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 57,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP support weaker sections.",
+    "keywords": ["Weaker Sections", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 58,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote education.",
+    "keywords": ["Education", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 59,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP support sanitation.",
+    "keywords": ["Sanitation", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 60,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Gandhian Principles",
+    "article": "",
+    "fact": "Gandhian DPSP promote self-sufficiency.",
+    "keywords": ["Self-Sufficiency", "Gandhian"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 61,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP promote modern governance.",
+    "keywords": ["Modern Governance", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 62,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP support rule of law.",
+    "keywords": ["Rule of Law", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 63,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP promote international peace.",
+    "keywords": ["International Peace", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 64,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP support environmental protection.",
+    "keywords": ["Environment", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 65,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP promote legal justice.",
+    "keywords": ["Legal Justice", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 66,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP support administrative reforms.",
+    "keywords": ["Administrative Reforms", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 67,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP promote uniform civil principles.",
+    "keywords": ["Uniform Civil Code", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 68,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP support separation of powers.",
+    "keywords": ["Separation of Powers", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 69,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP promote scientific development.",
+    "keywords": ["Scientific Development", "Liberal"],
+    "source": "Indian Constitution"
+  },
+  {
+    "id": 70,
+    "subject": "Indian Polity",
+    "topic": "DPSP",
+    "subtopic": "Liberal-Intellectual Principles",
+    "article": "",
+    "fact": "Liberal DPSP support education expansion.",
+    "keywords": ["Education", "Liberal"],
+    "source": "Indian Constitution"
+  }
+]
+```
+
+
+
 
 
 
